@@ -12,3 +12,13 @@ Me motiva el constante deseo de aprender nuevas tecnologías y estar siempre act
 
  <h2 align="center">Contáctame</h2> 
  <p align="center"> <a href="https://api.whatsapp.com/send?phone=573213437645"> <img src="https://cdn.icon-icons.com/icons2/3685/PNG/512/whatsapp_logo_icon_229310.png" width="40" height="40" /> </a> <a href="https://www.instagram.com/juanjara1078/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/480px-Instagram_icon.png" width="40" height="40" /> </a>  <a href="https://www.linkedin.com/in/juan-jos%C3%A9-jara-%C3%A1lvarez-a3a7731b4/" > <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40" height="40" /> </a> </p>
+
+
+
+
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanj72&show_icons=true&theme=radical)
+
+### 🔥 Lenguajes Más Usados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanj72&layout=compact&theme=radical)
