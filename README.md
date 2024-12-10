@@ -21,4 +21,5 @@ Me motiva el constante deseo de aprender nuevas tecnologías y estar siempre act
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanj72&show_icons=true&theme=radical)
 
 ### 🔥 Lenguajes Más Usados
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanj72&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanj72&layout=compact&theme=radical&hide=dart)
+
