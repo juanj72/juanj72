@@ -6,11 +6,11 @@
 ### 🚀 Sobre mí
 
 🎓 Soy ingeniero de sistemas con gran capacidad de aprendizaje.  
-💻 Me desempeño como desarrollador junior, con experiencia práctica en proyectos reales y tecnologías modernas.  
+💻 Me desempeño como desarrollador, con experiencia práctica en proyectos reales y tecnologías modernas.  
 🔧 Trabajo con **Python**, **JavaScript**, **Django**, **FastAPI**, **Vue**, **React**, y bases de datos como **MySQL**.  
 🐧 Familiarizado con entornos Linux, contenedores Docker y buenas prácticas de desarrollo.
 
-👨‍💼 Recientemente desarrollé un sistema de gestión de personal en **OrdenesApp** para la empresa **Inmobiliaria SAS**, lo cual me permitió aplicar habilidades de backend y automatización.
+👨‍💼 Desarrollé un sistema de gestión de personal **OrderinsApp** para la empresa **Jara Inmobiliaria SAS**, lo cual me permitió aplicar habilidades de backend y automatización.
 
 🧠 Me motiva el aprendizaje constante, manteniéndome actualizado en nuevas tecnologías y metodologías de desarrollo.
 
