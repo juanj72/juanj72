@@ -6,7 +6,7 @@
 ### 🚀 Sobre mí
 
 🎓 Soy ingeniero de sistemas con gran capacidad de aprendizaje.  
-💻 Me desempeño como desarrollador, con experiencia práctica en proyectos reales y tecnologías modernas.  
+💻 Me desempeño como desarrollador, con 2+ años experiencia práctica en proyectos reales y tecnologías modernas.  
 🔧 Trabajo con **Python**, **JavaScript**, **Django**, **FastAPI**, **Vue**, **React**, y bases de datos como **MySQL**.  
 🐧 Familiarizado con entornos Linux, contenedores Docker y buenas prácticas de desarrollo.
 
