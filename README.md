@@ -12,7 +12,7 @@
 
 👨‍💼 Desarrollé un sistema de gestión de personal **OrderinsApp** para la empresa **Jara Inmobiliaria SAS**, lo cual me permitió aplicar habilidades de backend y automatización.
 
-🧠 Me motiva el aprendizaje constante, manteniéndome actualizado en nuevas tecnologías y metodologías de desarrollo.
+🧠 Me motiva el aprendizaje constante, manteniéndome actualizado en nuevas tecnologías, arquitecturas limpias y metodologías de desarrollo.
 
 ---
 
