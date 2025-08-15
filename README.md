@@ -9,6 +9,7 @@
 💻 Me desempeño como desarrollador, con 3+ años experiencia práctica en proyectos reales y tecnologías modernas.  
 🔧 Trabajo con **Python**, **JavaScript**, **Django**, **FastAPI**, **Vue**, **React**, y bases de datos como **MySQL**, **MongoDB**, **PostgreSQL**.  
 🐧 Familiarizado con entornos Linux, contenedores Docker y buenas prácticas de desarrollo.
+🔧 Con sólidos conocimientos en WebScraping con Python y Playwright
 
 👨‍💼 Desarrollé un sistema de gestión de personal **OrderinsApp** para la empresa **Jara Inmobiliaria SAS**, lo cual me permitió aplicar habilidades de backend y automatización.
 
